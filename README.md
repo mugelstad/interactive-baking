@@ -12,6 +12,9 @@ The Happy Bowl has an LED panel and a weight sensor so it can give visual feedba
 
 ![Sad Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/MAG_1462.NEF)
 
+https://raw.githubusercontent.com/mugelstad/interactive-baking/master/MAG_1462.NEF
+
+
 ## Singing Whisk: Auditory Stimulation for Engagement
 
 
