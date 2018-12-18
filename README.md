@@ -12,7 +12,7 @@ The Happy Bowl has an LED panel and a weight sensor so it can give visual feedba
 
 ![Sad Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1462.png)
 ![Happy Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1518.png)
-![Bowl Weight Sensor](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1519.JPG)
+![Bowl Weight Sensor](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1519.png)
 ![Bowl Circuitry](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1520.png)
 
 ## Singing Whisk: Auditory Stimulation for Engagement
@@ -41,11 +41,11 @@ We have several goals for how we want to continue improving the baking set from 
 Upload the folder labled MultiTaction_surface to the computer attached to the MT Surface. Using a Windows computer, double click the run.bat file to run our program. On a Mac, this must be run through the command line. Use the two codes as sensors on the MT Surface and place them where it says "Place Bowl Here" and "Place Measuring Cup Here". 
 
 ## Happy Bowl
-Upload the folder labled happy_bowl to the computer attached to the sewable arduino. Configure the path to the HX711 folder on your computer to attach the weight sensor capabilites. Upload the hapyBowl.ino code to the sewable arduino with the bowl on the weight sensor. Add ingredients to the bowl when prompted.
+Upload the folder labled happy_bowl to the computer attached to the sewable arduino. Configure the path to the HX711 folder on your computer to attach the weight sensor capabilites. Upload the happyBowl.ino code to the sewable arduino with the bowl on the weight sensor. Add ingredients to the bowl when prompted.
 
 ## Singing Whisk
-Upload the folder labeled accelerometer_whisk to the computer attached to the arduino and upload the accelerometer.ino code to the arduino. 
+Upload the folder labeled accelerometer_whisk to the computer attached to the arduino and upload the accelerometer.ino code to the arduino. Pick up the whisk and start to turn it. 
 
 ## Liquid Sensor Measuring Cup
-Upload the folder labeled liquid_sensor to the computer attached to the arduino and upload the liquid_sensor.ino code to the arduino.
+Upload the folder labeled liquid_sensor to the computer attached to the arduino and upload the liquid_sensor.ino code to the arduino. Fill the measuring cup with liquid until you see it light up and feel/hear it buzz.
 
