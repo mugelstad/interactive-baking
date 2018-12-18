@@ -32,6 +32,10 @@ The MultiTaction Surface is a collaborative baking surface that offers a range o
 
 ## Design Progression
 
+![Original Idea](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/original_idea.png)
+![Iteration](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/iteration.jpg)
+![Final Product](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/final_product.png)
+
 ## Where do We Want to Take it in the Future?
 We have several goals for how we want to continue improving the baking set from its current manifestation. First, we want to implement Bluetooth connections on all the baking set items so there are no cords getting in the way whilst baking. Second, we want to improve our electronic protection covers so that they keep our electronic elements safe from the messiness of baking and also allow children to view the mechanics for education and engagement purposes. We would also like to add more elements to our MultiTaction Surface, such as a progress bar for each recipe, and a checklist showing which recipes have been completed. Finally, we would like to add features that support the use for people of varying abilities, for example those with Alzheimer’s disease or cognitive disabilities.
 
