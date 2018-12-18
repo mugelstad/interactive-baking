@@ -26,3 +26,18 @@ The MultiTaction Surface is a collaborative baking surface that offers a range o
 
 ## Where do We Want to Take it in the Future?
 We have several goals for how we want to continue improving the baking set from its current manifestation. First, we want to implement Bluetooth connections on all the baking set items so there are no cords getting in the way whilst baking. Second, we want to improve our electronic protection covers so that they keep our electronic elements safe from the messiness of baking and also allow children to view the mechanics for education and engagement purposes. We would also like to add more elements to our MultiTaction Surface, such as a progress bar for each recipe, and a checklist showing which recipes have been completed. Finally, we would like to add features that support the use for people of varying abilities, for example those with Alzheimer’s disease or cognitive disabilities.
+
+# How to Use Our Code
+
+## MultiTaction Surface
+Upload the folder labled MultiTaction_surface to the computer attached to the MT Surface. Using a Windows computer, double click the run.bat file to run our program. On a Mac, this must be run through the command line. Use the two codes as sensors on the MT Surface and place them where it says "Place Bowl Here" and "Place Measuring Cup Here". 
+
+## Happy Bowl
+Upload the folder labled happy_bowl to the computer attached to the sewable arduino. Configure the path to the HX711 folder on your computer to attach the weight sensor capabilites. Upload the hapyBowl.ino code to the sewable arduino with the bowl on the weight sensor. Add ingredients to the bowl when prompted.
+
+## Singing Whisk
+Upload the folder labeled accelerometer_whisk to the computer attached to the arduino and upload the accelerometer.ino code to the arduino. 
+
+## Liquid Sensor Measuring Cup
+Upload the folder labeled liquid_sensor to the computer attached to the arduino and upload the liquid_sensor.ino code to the arduino.
+
