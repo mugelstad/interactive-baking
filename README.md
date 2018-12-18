@@ -11,7 +11,9 @@ The Interactive Baking set is currently made up of three baking tools and an int
 The Happy Bowl has an LED panel and a weight sensor so it can give visual feedback when ingredients are added and the user is progressing through the recipe. The Happy Bowl's weight sensor can sense when ingredients are added to the bowl and can then change the LED display from a red sad face to a green happy face. This offers encouragement for completing the next step of the recipe. 
 
 ![Sad Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1462.png)
-
+![Happy Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1518.JPG)
+![Bowl Weight Sensor](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1519.JPG)
+![Bowl Circuitry](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1520.JPG)
 
 ## Singing Whisk: Auditory Stimulation for Engagement
 The Singing Whisk is a whisk that plays music as you whisk. The music will play as long as you are moving the whisk around, but if you stop, the music stops too. This helps encourage the user to stay on task and follow through, completing the steps of baking. 
