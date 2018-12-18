@@ -11,15 +11,21 @@ The Interactive Baking set is currently made up of three baking tools and an int
 The Happy Bowl has an LED panel and a weight sensor so it can give visual feedback when ingredients are added and the user is progressing through the recipe. The Happy Bowl's weight sensor can sense when ingredients are added to the bowl and can then change the LED display from a red sad face to a green happy face. This offers encouragement for completing the next step of the recipe. 
 
 ![Sad Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1462.png)
-![Happy Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1518.JPG)
+![Happy Bowl](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1518.png)
 ![Bowl Weight Sensor](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1519.JPG)
-![Bowl Circuitry](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1513.png)
+![Bowl Circuitry](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1520.png)
 
 ## Singing Whisk: Auditory Stimulation for Engagement
 The Singing Whisk is a whisk that plays music as you whisk. The music will play as long as you are moving the whisk around, but if you stop, the music stops too. This helps encourage the user to stay on task and follow through, completing the steps of baking. 
 
+![Whisk](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1514.png)
+![Whisk Circuitry](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1513.png)
+
 ## Liquid Sensor Measuring Cup: Auditory and Visual Feedback
 The Liquid Sensor Measuring Cup is used to measure ingredients to add to the mixing bowl. It has a liquid sensor on the side that reads how much liquid is in the cup. When it reaches the amount required by the recipe, and LED flashes on and a buzzer plays a short tune. The measuring cup also has a MultiTaction marker on the bottom so that when the measuring cup is placed on the MultiTaction surface, a visual prompt will appear telling the user what ingredient to measure out next. 
+
+![Liquid Sensor](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1515.png)
+![Measuring Cup Circuitry](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/MAG_1517.png)
 
 ## MultiTaction Surface: Multi-Sensory Input and Output
 The MultiTaction Surface is a collaborative baking surface that offers a range of functions to enhance that baking experience. The functions on it include a recipe book, a timer, cooking videos, and a bowl and measuring cup maker sensors. The MT surface produces a variety of sensory output, from visual to audio, and is a touch-based system. The high level of interactivity can help keep children entertained and invested throughout the baking process. 
