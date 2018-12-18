@@ -33,7 +33,7 @@ The MultiTaction Surface is a collaborative baking surface that offers a range o
 ## Design Progression
 
 ![Original Idea](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/original_idea.png)
-![Iteration](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/iteration.jpg)
+![Iteration](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/iteration.png)
 ![Final Product](https://raw.githubusercontent.com/mugelstad/interactive-baking/master/photos/final_product.png)
 
 ## Where do We Want to Take it in the Future?
